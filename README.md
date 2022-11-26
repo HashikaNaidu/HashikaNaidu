@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HashikaMutyala
 - 👀 I’m interested in meeting new people
-- 🌱 I’m currently learning pyhton
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything that comes my way
 - 📫 How to reach me hashikamutyala@gmail.com
 
